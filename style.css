@@ -1,6 +1,13 @@
-
-body{
-   background-image: url("656813.png");
-
-
+body {
+  margin: 0;
+  background: url('E5VOCGT.png') no-repeat bottom right 25%;
+  background-size: cover;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  height:100vh;
+}
+header {
+  color: white;
+  max-width: 400px;
 }
